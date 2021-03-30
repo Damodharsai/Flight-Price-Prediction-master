@@ -6,7 +6,7 @@ This repository consists of files required for end to end implementation and dep
 ## Table of Contents
   * [Demo](#demo)
   * [Overview](#overview)
-  * [About the App](#About the App)
+  * [About the App](#About-the-App)
   * [Installation](#installation)
   * [Deployment on Heroku](#deployement-on-heroku)
   * [Directory Tree](#directory-tree)
